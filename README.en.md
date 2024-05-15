@@ -1,6 +1,6 @@
 [简体中文](./README.md) | English
 
-<div align="center"><img width="200" src="https://fastly.jsdelivr.net/gh/chuzhixin/image/logo/vab.png"/>
+<div align="center"><img width="200" src="https://gcore.jsdelivr.net/gh/chuzhixin/image/logo/vab.png"/>
 <h1> vue-admin-better（element-ui） </h1>
 <p>The flying snow all over the sky is a flying note, playing out expectations with blessings. May the epidemic dissipate as soon as possible, may you no longer have regrets next year, may you be warm in winter, may you not be cold in spring, and may you have lights in the dark and an umbrella in the rain.
 </p>
@@ -83,16 +83,16 @@ npm run serve
 <table>
 <tr>
 <!-- <td>
-<img width="200px" src="https://fastly.jsdelivr.net/gh/chuzhixin/image/qq_group/hbm.jpg">
+<img width="200px" src="https://gcore.jsdelivr.net/gh/chuzhixin/image/qq_group/hbm.jpg">
 </td> -->
 <td>
-<img width="200px" src="https://fastly.jsdelivr.net/gh/chuzhixin/image/zfb_kf.jpg">
+<img width="200px" src="https://gcore.jsdelivr.net/gh/chuzhixin/image/zfb_kf.jpg">
 </td>
 <td>
-<img width="200px" src="https://fastly.jsdelivr.net/gh/chuzhixin/image/qq_group/vab-2.jpg">
+<img width="200px" src="https://gcore.jsdelivr.net/gh/chuzhixin/image/qq_group/vab-2.jpg">
 </td>
 <td>
-<img width="200px" src="https://fastly.jsdelivr.net/gh/chuzhixin/image/qq_group/vab-3.jpg">
+<img width="200px" src="https://gcore.jsdelivr.net/gh/chuzhixin/image/qq_group/vab-3.jpg">
 </td>
 </tr>
 </table>
@@ -100,10 +100,10 @@ npm run serve
 ## 🙈 We promise to sponsor open source projects regularly (thank giant)
 
 <a title="vue" href="https://opencollective.com/vuejs" target="_blank">
-<img width="64px" src="https://fastly.jsdelivr.net/gh/chuzhixin/image/vue.png"/>
+<img width="64px" src="https://gcore.jsdelivr.net/gh/chuzhixin/image/vue.png"/>
 </a>
 <a title="element-plus" href="https://opencollective.com/element-plus" target="_blank">
-<img width="64px" src="https://fastly.jsdelivr.net/gh/chuzhixin/image/element-plus.png"/>
+<img width="64px" src="https://gcore.jsdelivr.net/gh/chuzhixin/image/element-plus.png"/>
 </a>
 <a title="ant-design-vue" href="https://opencollective.com/ant-design-vue" target="_blank">
 <img width="64px" src="https://images.opencollective.com/ant-design-vue/2ec179b/logo/256.png"/>
@@ -112,7 +112,7 @@ npm run serve
 ## 🎨 Acknowledge
 
 | Project                                                          |
-|------------------------------------------------------------------|
+| ---------------------------------------------------------------- |
 | [vue](https://github.com/vuejs/vue)                              |
 | [element-ui](https://github.com/ElemeFE/element)                 |
 | [element-plus](https://github.com/element-plus/element-plus)     |
@@ -166,7 +166,7 @@ Precautions for use:
 
 ## 🎉 Function map
 
-![img](https://fastly.jsdelivr.net/gh/chuzhixin/image/vip/flow.drawio.png)
+![img](https://gcore.jsdelivr.net/gh/chuzhixin/image/vip/flow.drawio.png)
 
 ## 🗃️ design sketch
 
@@ -175,26 +175,26 @@ The following is a screenshot of the pro version:
 <table>
 <tr>
 <td>
-<img src="https://fastly.jsdelivr.net/gh/chuzhixin/image/2.png">
+<img src="https://gcore.jsdelivr.net/gh/chuzhixin/image/2.png">
 </td>
 <td>
-<img src="https://fastly.jsdelivr.net/gh/chuzhixin/image/6.png">
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://fastly.jsdelivr.net/gh/chuzhixin/image/8.png">
-</td>
-<td>
-<img src="https://fastly.jsdelivr.net/gh/chuzhixin/image/9.png">
+<img src="https://gcore.jsdelivr.net/gh/chuzhixin/image/6.png">
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://fastly.jsdelivr.net/gh/chuzhixin/image/3.png">
+<img src="https://gcore.jsdelivr.net/gh/chuzhixin/image/8.png">
 </td>
 <td>
-<img src="https://fastly.jsdelivr.net/gh/chuzhixin/image/5.png">
+<img src="https://gcore.jsdelivr.net/gh/chuzhixin/image/9.png">
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://gcore.jsdelivr.net/gh/chuzhixin/image/3.png">
+</td>
+<td>
+<img src="https://gcore.jsdelivr.net/gh/chuzhixin/image/5.png">
 </td>
 </tr>
 </table>
@@ -202,8 +202,7 @@ The following is a screenshot of the pro version:
 ## 📄 Commercial considerations
 
 This project can be used for commercial purposes free of charge. Please abide by the MIT agreement and keep the author's
-technical support statement. For customized source code copyright information, please contact customer service QQ
-783963206.
+technical support statement. For customized source code copyright information, please contact customer service QQ 783963206.
 
 <!-- ## 严正声明
 
